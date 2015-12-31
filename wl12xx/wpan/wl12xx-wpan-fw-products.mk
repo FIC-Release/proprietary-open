@@ -13,6 +13,6 @@
 # limitations under the License.
 #
 
-WPAN_FW_TOP := device/ti/proprietary-open/wl12xx/wpan
+WPAN_FW_TOP := hardware/ti/proprietary-open/wl12xx/wpan
 
 $(call inherit-product, $(WPAN_FW_TOP)/bluetooth/wl12xx-wpan-bt-fw-products.mk)

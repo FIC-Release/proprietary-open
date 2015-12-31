@@ -17,7 +17,7 @@
 # WLAN firmware package, which is defined in the top-level Android.mk
 # of the proprietary-open tree
 
-WLAN_TGZ := device/ti/proprietary-open/wl12xx/wlan/wlan.tgz
+WLAN_TGZ := hardware/ti/proprietary-open/wl12xx/wlan/wlan.tgz
 PRODUCT_PACKAGES += \
 	wl18xx-fw-4.bin \
 	wl18xx-conf.bin

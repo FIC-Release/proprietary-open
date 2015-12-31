@@ -15,6 +15,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-WPAN_TGZ := device/ti/proprietary-open/wl12xx/wpan/wpan.tgz
+WPAN_TGZ := hardware/ti/proprietary-open/wl12xx/wpan/wpan.tgz
 
 include $(call all-makefiles-under, $(LOCAL_PATH))
